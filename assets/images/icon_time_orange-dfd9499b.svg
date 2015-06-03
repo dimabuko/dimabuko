@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 22 22"
+	 enable-background="new 0 0 22 22" xml:space="preserve">
+<title>Oval 10 + Rectangle 10 + Rectangle 14</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path fill="#FF8000" d="M11,0C4.9,0,0,4.9,0,11s4.9,11,11,11s11-4.9,11-11S17.1,0,11,0z M11,20.2c-5.1,0-9.2-4.1-9.2-9.2
+		S5.9,1.8,11,1.8s9.2,4.1,9.2,9.2S16.1,20.2,11,20.2z"/>
+	<polygon fill="#FF8000" points="12,5 10,5 10,10 10,12 12,12 17,12 17,10 12,10 	"/>
+</g>
+</svg>
